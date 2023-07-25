@@ -74,7 +74,7 @@ The success of this project reaffirms the power and potential of deep learning a
 
 ## Explore the Full Code
 
-For a comprehensive understanding of our work, we invite you to explore the complete code and experiments in the provided Jupyter Notebook (.ipynb) document available in the notebooks directory of this repository. The notebook contains detailed explanations of the data exploration, preprocessing steps, model training, and evaluation processes.
+For a comprehensive understanding of our work, we invite you to explore the complete code and experiments in the provided Jupyter [Notebook](https://github.com/felipegomez30/CNN-Predictive-Modelling/blob/main/notebooks/Predictive-modelling-notebook.ipynb) document available in the notebooks directory of this repository. The notebook contains detailed explanations of the data exploration, preprocessing steps, model training, and evaluation processes.
 
 Feel free to reach out if you have any questions or suggestions regarding this project. We hope our work inspires further research and development in the exciting field of deep learning for image classification.
 
