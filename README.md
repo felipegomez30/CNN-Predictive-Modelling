@@ -1,5 +1,10 @@
 # Bird Species Predictive Modeling using Convolutional Neural Networks (CNN)
 
+### Collaborators: 
+
+- [Allen Phimphrachanh ](https://github.com/AllenP07)
+- [Aarya Saheed](https://github.com/aaryasaheed)
+
 This repository contains the code and documentation for a project on predictive modeling of bird species using Convolutional Neural Networks (CNN). 
 The project utilizes the Bird Species dataset from Kaggle and explores three different CNN models: naive CNN, efficientNET CNN, and VGG19 model. 
 The goal of this project is to classify bird species accurately using deep learning techniques and compare the performance of the three models.
@@ -12,7 +17,7 @@ This project focuses on building and comparing three different CNN models to pre
 ## Dataset
 
 The dataset used in this project is the Bird Species dataset from Kaggle. 
-It consists of images of 100 different bird species, each labeled with the corresponding class. The dataset is divided into training, validation, and test sets, providing an appropriate basis for training and evaluating the models.
+It consists of images of 525 different bird species, each labeled with the corresponding class. The dataset is divided into training, validation, and test sets, providing an appropriate basis for training and evaluating the models.
 
 ## Models
 
