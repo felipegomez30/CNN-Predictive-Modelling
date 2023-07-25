@@ -41,6 +41,9 @@ Accuracy: 92%
 
 ## VGG19 Outperformed the Other Models
 
+![vgg19](https://github.com/felipegomez30/CNN-Predictive-Modelling/assets/130583163/9663e307-4edc-4c92-8a32-66d0619ab44b)
+
+
 The VGG19 model showcased impressive performance, outperforming the other two models, Naive CNN and EfficientNet CNN, in classifying bird species from the Kaggle Bird Species dataset. With an accuracy of 92%, it demonstrated its effectiveness in accurately identifying various bird species.
 
 The success of VGG19 can be attributed to several key factors:
